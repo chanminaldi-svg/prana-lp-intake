@@ -1,0 +1,3 @@
+- Scaffold a public Next.js project for a private LP intake form.
+- Keep form submission logic in `app/api/submit/route.js`.
+- Ensure `README.md` includes installation and deployment steps.
